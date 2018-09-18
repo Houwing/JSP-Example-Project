@@ -1,5 +1,5 @@
 # JSP-Example-Project
-##这是一个imooc.com上职业路径java web基础课程的综合案例
+## 这是一个imooc.com上职业路径java web基础课程的综合案例
 里面使用了jsp的技术包含
 - Servlet
 - Filter
